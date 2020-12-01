@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OxymeterActivivty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtFirstGuide">Track your pulse and blood oxygen level</string>
+</resources>
